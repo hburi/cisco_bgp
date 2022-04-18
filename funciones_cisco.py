@@ -9,9 +9,20 @@ Funciones para cisco_bgp.py - CISCO
 """
 
 '''
-Pigué
-ssh -l admin -p 6622 190.103.207.225	
-admin	w3tcb4!
+# Pigué
+
+ip = '******'
+port = '******'
+user = '******'
+password = '******'
+'''
+# San josé
+ip = '******'
+port = '******'
+user = '******'
+password = '******'
+'''
+
 '''
 
 
