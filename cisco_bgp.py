@@ -16,18 +16,18 @@ from funciones_sheet import write_rows
 enter = '\n'
 # Pigué
 
-ip = '190.103.207.225'
-port = 6622
-user = "admin"
-password = "w3tcb4!"
+ip = '******'
+port = '******'
+user = '******'
+password = '******'
 '''
 
 # San josé
 
-ip = '186.190.183.1'
-port = 6622
-user = "admin"
-password = "w3tcb4!"
+ip = '******'
+port = '******'
+user = '******'
+password = '******'
 '''
 
 comm_neigh = 'show ip bgp neighbors'
